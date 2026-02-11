@@ -46,5 +46,3 @@ Based on the analysis performed in this notebook:
 
 
 ---
-
-*Developed for Petroleum Engineering and Geoscience applications.*
